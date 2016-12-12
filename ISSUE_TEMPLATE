@@ -1,0 +1,12 @@
+TOOL: AInspector Sidebar
+
+VERSION: (in Firefox menu, select Tools > Add-Ons to load Add-ons Manager in a new tab,
+select Extensions from left-side menu, right-click AInspector Sidebar and select About)
+
+RULESET: (HTML5/ARIA Techniques or HTML4 Legacy Techniques)
+
+DESCRIPTION:
+
+URL: (of page evaluated where issue was observed)
+
+STEPS TO REPRODUCE: (e.g., how to navigate to the AInspector view)
